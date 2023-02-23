@@ -1,3 +1,2 @@
 # Electrium Mobility
-We are a team of students aiming to create e-vehicles.  
-Electrium Mobility is divided into smaller subteams where each subteam works to create an electric vehicle.
+Electrium Mobility is a design team in the Sedra Student Design Center in the University of Waterloo. Our goal is to create personal electric vehicles!
